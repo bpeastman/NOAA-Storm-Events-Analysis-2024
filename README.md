@@ -104,4 +104,5 @@ The analysis was validated through dataset integration checks, unique event iden
 
 ## Published Report
 
-RPubs URL: Pending publication.
+RPubs URL: https://rpubs.com/bpeastman/NOAA-Storm-Events-2024
+
