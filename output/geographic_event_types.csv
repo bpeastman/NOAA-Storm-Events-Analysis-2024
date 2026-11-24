@@ -1,0 +1,1017 @@
+STATE,EVENT_TYPE,TOTAL_EVENTS,TOTAL_DEATHS,TOTAL_INJURIES
+ALABAMA,Astronomical Low Tide,1,0,0
+ALABAMA,Coastal Flood,13,0,0
+ALABAMA,Cold/Wind Chill,38,0,0
+ALABAMA,Drought,156,0,0
+ALABAMA,Excessive Heat,15,0,0
+ALABAMA,Flash Flood,77,0,0
+ALABAMA,Flood,13,0,0
+ALABAMA,Frost/Freeze,24,0,0
+ALABAMA,Funnel Cloud,1,0,0
+ALABAMA,Hail,81,0,0
+ALABAMA,Heat,98,0,0
+ALABAMA,Heavy Rain,3,0,0
+ALABAMA,Heavy Snow,2,0,1
+ALABAMA,High Wind,4,0,1
+ALABAMA,Lightning,4,1,0
+ALABAMA,Sleet,6,0,0
+ALABAMA,Strong Wind,63,2,3
+ALABAMA,Thunderstorm Wind,569,1,0
+ALABAMA,Tornado,80,1,25
+ALABAMA,Tropical Depression,4,0,0
+ALABAMA,Tropical Storm,5,0,0
+ALABAMA,Winter Storm,3,0,0
+ALABAMA,Winter Weather,13,0,0
+ALASKA,Avalanche,1,0,0
+ALASKA,Blizzard,85,0,0
+ALASKA,Coastal Flood,15,0,0
+ALASKA,Cold/Wind Chill,1,0,0
+ALASKA,Debris Flow,2,1,3
+ALASKA,Extreme Cold/Wind Chill,3,0,0
+ALASKA,Flood,28,0,0
+ALASKA,Frost/Freeze,5,0,0
+ALASKA,Funnel Cloud,1,0,0
+ALASKA,Hail,1,0,0
+ALASKA,Heavy Rain,1,0,0
+ALASKA,Heavy Snow,31,0,0
+ALASKA,High Wind,77,0,0
+ALASKA,Strong Wind,2,0,0
+ALASKA,Thunderstorm Wind,1,0,0
+ALASKA,Tornado,1,0,0
+ALASKA,Wildfire,2,0,0
+ALASKA,Winter Storm,43,0,0
+ALASKA,Winter Weather,19,1,1
+AMERICAN SAMOA,Flash Flood,6,0,0
+AMERICAN SAMOA,Flood,1,0,0
+AMERICAN SAMOA,Heavy Rain,6,0,0
+AMERICAN SAMOA,High Surf,3,0,0
+AMERICAN SAMOA,Rip Current,1,1,1
+AMERICAN SAMOA,Thunderstorm Wind,6,0,0
+ARIZONA,Cold/Wind Chill,4,4,0
+ARIZONA,Drought,14,0,0
+ARIZONA,Dust Devil,1,0,0
+ARIZONA,Dust Storm,28,0,1
+ARIZONA,Excessive Heat,152,109,0
+ARIZONA,Flash Flood,65,4,0
+ARIZONA,Flood,12,0,0
+ARIZONA,Funnel Cloud,3,0,0
+ARIZONA,Hail,31,0,5
+ARIZONA,Heat,98,146,0
+ARIZONA,Heavy Rain,3,0,0
+ARIZONA,Heavy Snow,32,0,0
+ARIZONA,High Wind,37,0,0
+ARIZONA,Lightning,3,0,2
+ARIZONA,Strong Wind,4,1,0
+ARIZONA,Thunderstorm Wind,174,2,2
+ARIZONA,Tornado,7,0,0
+ARIZONA,Wildfire,6,0,0
+ARIZONA,Winter Storm,6,0,0
+ARIZONA,Winter Weather,8,0,0
+ARKANSAS,Cold/Wind Chill,26,0,0
+ARKANSAS,Drought,49,0,0
+ARKANSAS,Excessive Heat,126,0,0
+ARKANSAS,Extreme Cold/Wind Chill,1,0,0
+ARKANSAS,Flash Flood,68,0,0
+ARKANSAS,Flood,71,2,0
+ARKANSAS,Freezing Fog,1,0,0
+ARKANSAS,Funnel Cloud,3,0,0
+ARKANSAS,Hail,193,0,0
+ARKANSAS,Heat,122,0,0
+ARKANSAS,Heavy Rain,48,2,0
+ARKANSAS,High Wind,2,0,0
+ARKANSAS,Ice Storm,5,0,0
+ARKANSAS,Lightning,1,0,0
+ARKANSAS,Strong Wind,8,0,0
+ARKANSAS,Thunderstorm Wind,329,1,1
+ARKANSAS,Tornado,62,5,20
+ARKANSAS,Winter Storm,58,0,0
+ARKANSAS,Winter Weather,73,0,0
+ATLANTIC NORTH,Marine Hail,1,0,0
+ATLANTIC NORTH,Marine High Wind,16,0,0
+ATLANTIC NORTH,Marine Thunderstorm Wind,652,0,0
+ATLANTIC NORTH,Waterspout,4,0,0
+ATLANTIC SOUTH,Marine Hail,9,0,0
+ATLANTIC SOUTH,Marine High Wind,1,0,0
+ATLANTIC SOUTH,Marine Hurricane/Typhoon,1,0,0
+ATLANTIC SOUTH,Marine Thunderstorm Wind,486,0,0
+ATLANTIC SOUTH,Marine Tropical Depression,1,0,0
+ATLANTIC SOUTH,Marine Tropical Storm,29,0,0
+ATLANTIC SOUTH,Waterspout,55,0,0
+CALIFORNIA,Blizzard,6,0,0
+CALIFORNIA,Coastal Flood,1,0,0
+CALIFORNIA,Cold/Wind Chill,9,10,0
+CALIFORNIA,Debris Flow,37,2,0
+CALIFORNIA,Dense Fog,226,10,17
+CALIFORNIA,Dust Devil,1,2,2
+CALIFORNIA,Dust Storm,7,0,7
+CALIFORNIA,Excessive Heat,186,15,4
+CALIFORNIA,Flash Flood,101,2,0
+CALIFORNIA,Flood,414,6,0
+CALIFORNIA,Freezing Fog,1,0,0
+CALIFORNIA,Frost/Freeze,70,0,0
+CALIFORNIA,Funnel Cloud,12,0,0
+CALIFORNIA,Hail,21,0,0
+CALIFORNIA,Heat,106,10,25
+CALIFORNIA,Heavy Rain,104,1,0
+CALIFORNIA,Heavy Snow,275,1,0
+CALIFORNIA,High Surf,13,5,8
+CALIFORNIA,High Wind,583,3,2
+CALIFORNIA,Lightning,6,0,0
+CALIFORNIA,Rip Current,1,0,2
+CALIFORNIA,Sneakerwave,3,3,1
+CALIFORNIA,Strong Wind,80,7,7
+CALIFORNIA,Thunderstorm Wind,73,1,4
+CALIFORNIA,Tornado,4,0,5
+CALIFORNIA,Wildfire,56,0,36
+CALIFORNIA,Winter Storm,66,0,0
+CALIFORNIA,Winter Weather,126,1,3
+COLORADO,Avalanche,4,2,3
+COLORADO,Blizzard,5,0,0
+COLORADO,Cold/Wind Chill,3,0,0
+COLORADO,Debris Flow,33,0,0
+COLORADO,Dense Fog,23,0,0
+COLORADO,Dust Storm,3,0,0
+COLORADO,Extreme Cold/Wind Chill,14,0,0
+COLORADO,Flash Flood,26,0,0
+COLORADO,Flood,18,2,0
+COLORADO,Frost/Freeze,11,0,0
+COLORADO,Funnel Cloud,2,0,0
+COLORADO,Hail,415,0,0
+COLORADO,Heavy Rain,24,0,0
+COLORADO,Heavy Snow,439,0,0
+COLORADO,High Wind,155,0,0
+COLORADO,Lightning,2,1,0
+COLORADO,Strong Wind,12,0,3
+COLORADO,Thunderstorm Wind,290,0,0
+COLORADO,Tornado,21,0,0
+COLORADO,Wildfire,27,2,0
+COLORADO,Winter Storm,96,0,0
+COLORADO,Winter Weather,273,0,0
+CONNECTICUT,Astronomical Low Tide,1,0,0
+CONNECTICUT,Coastal Flood,6,0,0
+CONNECTICUT,Drought,4,0,0
+CONNECTICUT,Flash Flood,59,3,0
+CONNECTICUT,Flood,4,0,0
+CONNECTICUT,Hail,22,0,0
+CONNECTICUT,Heat,12,0,0
+CONNECTICUT,Heavy Snow,16,0,0
+CONNECTICUT,High Wind,10,0,0
+CONNECTICUT,Lightning,3,0,7
+CONNECTICUT,Strong Wind,3,0,0
+CONNECTICUT,Thunderstorm Wind,128,1,0
+CONNECTICUT,Tornado,1,0,0
+CONNECTICUT,Winter Storm,1,0,0
+CONNECTICUT,Winter Weather,18,0,0
+DELAWARE,Astronomical Low Tide,2,0,0
+DELAWARE,Coastal Flood,15,0,0
+DELAWARE,Dense Fog,17,0,0
+DELAWARE,Excessive Heat,8,0,0
+DELAWARE,Flash Flood,4,0,0
+DELAWARE,Flood,1,0,0
+DELAWARE,High Wind,4,0,0
+DELAWARE,Thunderstorm Wind,21,0,3
+DELAWARE,Tornado,1,0,0
+DELAWARE,Winter Storm,2,0,0
+DELAWARE,Winter Weather,8,0,0
+DISTRICT OF COLUMBIA,Coastal Flood,7,0,0
+DISTRICT OF COLUMBIA,Excessive Heat,4,0,0
+DISTRICT OF COLUMBIA,Flood,2,0,0
+DISTRICT OF COLUMBIA,Hail,1,0,0
+DISTRICT OF COLUMBIA,Thunderstorm Wind,11,0,0
+DISTRICT OF COLUMBIA,Winter Storm,1,0,0
+DISTRICT OF COLUMBIA,Winter Weather,2,0,0
+E PACIFIC,Waterspout,5,0,0
+FLORIDA,Coastal Flood,14,0,0
+FLORIDA,Drought,10,0,0
+FLORIDA,Flash Flood,188,0,0
+FLORIDA,Flood,73,0,0
+FLORIDA,Funnel Cloud,34,0,0
+FLORIDA,Hail,75,0,0
+FLORIDA,Heavy Rain,94,0,0
+FLORIDA,High Wind,11,0,0
+FLORIDA,Hurricane (Typhoon),40,6,0
+FLORIDA,Lightning,23,6,7
+FLORIDA,Rip Current,18,19,4
+FLORIDA,Storm Surge/Tide,28,0,0
+FLORIDA,Strong Wind,5,0,0
+FLORIDA,Thunderstorm Wind,475,1,8
+FLORIDA,Tornado,132,8,24
+FLORIDA,Tropical Depression,29,0,0
+FLORIDA,Tropical Storm,187,17,4
+FLORIDA,Wildfire,5,1,1
+GEORGIA,Coastal Flood,2,0,0
+GEORGIA,Cold/Wind Chill,3,0,0
+GEORGIA,Drought,24,0,0
+GEORGIA,Flash Flood,231,0,0
+GEORGIA,Flood,20,0,0
+GEORGIA,Funnel Cloud,6,0,0
+GEORGIA,Hail,104,0,0
+GEORGIA,Heavy Rain,14,0,0
+GEORGIA,High Wind,6,0,0
+GEORGIA,Hurricane (Typhoon),29,11,82
+GEORGIA,Lightning,9,0,1
+GEORGIA,Rip Current,1,0,0
+GEORGIA,Strong Wind,12,0,2
+GEORGIA,Thunderstorm Wind,1002,2,2
+GEORGIA,Tornado,38,2,10
+GEORGIA,Tropical Storm,169,20,5
+GUAM,Coastal Flood,6,0,1
+GUAM,Drought,27,0,0
+GUAM,Dust Devil,1,0,0
+GUAM,Flash Flood,3,0,0
+GUAM,Flood,2,0,0
+GUAM,High Surf,1,0,3
+GUAM,High Wind,2,0,0
+GUAM,Rip Current,8,5,7
+GUAM,Thunderstorm Wind,1,0,0
+GUAM,Tropical Depression,3,0,0
+GUAM,Tropical Storm,2,0,0
+GUAM,Wildfire,1,0,0
+GUAM WATERS,Marine Strong Wind,1,4,3
+GULF OF ALASKA,Marine Thunderstorm Wind,2,0,0
+GULF OF MEXICO,Marine Hurricane/Typhoon,10,0,0
+GULF OF MEXICO,Marine Strong Wind,1,0,0
+GULF OF MEXICO,Marine Thunderstorm Wind,728,0,0
+GULF OF MEXICO,Marine Tropical Storm,45,0,0
+GULF OF MEXICO,Waterspout,93,0,0
+HAWAII,Debris Flow,1,0,0
+HAWAII,Drought,54,0,0
+HAWAII,Flash Flood,19,0,0
+HAWAII,Flood,13,0,0
+HAWAII,Funnel Cloud,1,0,0
+HAWAII,Heavy Rain,1,0,2
+HAWAII,High Surf,77,3,5
+HAWAII,High Wind,6,0,0
+HAWAII,Thunderstorm Wind,1,0,0
+HAWAII,Tropical Storm,3,0,0
+HAWAII,Wildfire,4,0,0
+IDAHO,Avalanche,6,2,3
+IDAHO,Blizzard,8,0,0
+IDAHO,Debris Flow,4,0,0
+IDAHO,Dust Storm,3,0,3
+IDAHO,Excessive Heat,7,0,0
+IDAHO,Flash Flood,8,0,0
+IDAHO,Flood,2,0,0
+IDAHO,Freezing Fog,1,0,0
+IDAHO,Frost/Freeze,4,0,0
+IDAHO,Funnel Cloud,3,0,0
+IDAHO,Hail,21,0,9
+IDAHO,Heat,5,0,0
+IDAHO,Heavy Rain,27,0,0
+IDAHO,Heavy Snow,76,0,0
+IDAHO,High Wind,48,0,0
+IDAHO,Lightning,4,0,0
+IDAHO,Strong Wind,11,0,0
+IDAHO,Thunderstorm Wind,261,1,1
+IDAHO,Tornado,1,0,0
+IDAHO,Wildfire,13,0,0
+IDAHO,Winter Storm,42,0,0
+IDAHO,Winter Weather,41,0,0
+ILLINOIS,Cold/Wind Chill,78,2,0
+ILLINOIS,Dense Fog,132,0,0
+ILLINOIS,Drought,45,0,0
+ILLINOIS,Dust Storm,8,0,6
+ILLINOIS,Excessive Heat,69,0,0
+ILLINOIS,Extreme Cold/Wind Chill,51,3,0
+ILLINOIS,Flash Flood,68,1,1
+ILLINOIS,Flood,94,0,0
+ILLINOIS,Frost/Freeze,43,0,0
+ILLINOIS,Funnel Cloud,6,0,0
+ILLINOIS,Hail,373,0,0
+ILLINOIS,Heat,77,0,0
+ILLINOIS,Heavy Rain,40,0,0
+ILLINOIS,Heavy Snow,14,0,0
+ILLINOIS,High Wind,57,1,3
+ILLINOIS,Ice Storm,11,0,47
+ILLINOIS,Lightning,2,0,1
+ILLINOIS,Rip Current,5,4,6
+ILLINOIS,Seiche,2,0,0
+ILLINOIS,Strong Wind,61,1,1
+ILLINOIS,Thunderstorm Wind,959,1,3
+ILLINOIS,Tornado,174,0,10
+ILLINOIS,Wildfire,3,0,0
+ILLINOIS,Winter Storm,57,1,0
+ILLINOIS,Winter Weather,139,0,8
+INDIANA,Cold/Wind Chill,12,1,0
+INDIANA,Dense Fog,24,0,0
+INDIANA,Drought,52,0,0
+INDIANA,Extreme Cold/Wind Chill,58,0,0
+INDIANA,Flash Flood,30,0,0
+INDIANA,Flood,34,0,0
+INDIANA,Frost/Freeze,10,0,0
+INDIANA,Funnel Cloud,1,0,0
+INDIANA,Hail,149,0,0
+INDIANA,Heat,26,0,0
+INDIANA,Heavy Rain,1,0,0
+INDIANA,Heavy Snow,37,1,13
+INDIANA,High Wind,44,0,1
+INDIANA,Lake-Effect Snow,9,0,0
+INDIANA,Lightning,6,0,3
+INDIANA,Rip Current,1,1,3
+INDIANA,Seiche,1,0,0
+INDIANA,Strong Wind,36,1,0
+INDIANA,Thunderstorm Wind,426,2,2
+INDIANA,Tornado,73,1,49
+INDIANA,Winter Storm,4,0,0
+INDIANA,Winter Weather,59,0,0
+IOWA,Blizzard,64,0,0
+IOWA,Cold/Wind Chill,14,0,0
+IOWA,Dense Fog,2,4,5
+IOWA,Drought,299,0,0
+IOWA,Excessive Heat,66,0,0
+IOWA,Extreme Cold/Wind Chill,81,0,0
+IOWA,Flash Flood,74,0,0
+IOWA,Flood,185,2,0
+IOWA,Funnel Cloud,52,0,0
+IOWA,Hail,417,0,0
+IOWA,Heat,25,0,0
+IOWA,Heavy Rain,104,0,0
+IOWA,High Wind,28,0,0
+IOWA,Ice Storm,30,0,0
+IOWA,Lightning,5,0,0
+IOWA,Strong Wind,38,0,0
+IOWA,Thunderstorm Wind,659,0,0
+IOWA,Tornado,155,6,44
+IOWA,Wildfire,1,0,1
+IOWA,Winter Storm,175,0,0
+IOWA,Winter Weather,58,0,0
+KANSAS,Blizzard,29,0,0
+KANSAS,Cold/Wind Chill,13,0,0
+KANSAS,Dense Fog,1,1,3
+KANSAS,Drought,162,0,0
+KANSAS,Dust Storm,13,0,3
+KANSAS,Extreme Cold/Wind Chill,9,0,0
+KANSAS,Flash Flood,47,0,0
+KANSAS,Flood,37,0,0
+KANSAS,Funnel Cloud,3,0,0
+KANSAS,Hail,767,0,0
+KANSAS,Heat,1,0,15
+KANSAS,Heavy Rain,85,0,0
+KANSAS,Heavy Snow,51,0,0
+KANSAS,High Wind,123,0,1
+KANSAS,Lightning,2,0,1
+KANSAS,Thunderstorm Wind,1043,1,9
+KANSAS,Tornado,69,0,0
+KANSAS,Wildfire,1,0,0
+KANSAS,Winter Storm,30,0,14
+KANSAS,Winter Weather,86,0,6
+KENTUCKY,Cold/Wind Chill,6,1,0
+KENTUCKY,Dense Fog,135,0,0
+KENTUCKY,Drought,24,0,0
+KENTUCKY,Excessive Heat,54,0,0
+KENTUCKY,Extreme Cold/Wind Chill,1,1,1
+KENTUCKY,Flash Flood,69,1,0
+KENTUCKY,Flood,64,1,0
+KENTUCKY,Frost/Freeze,46,0,0
+KENTUCKY,Funnel Cloud,1,0,0
+KENTUCKY,Hail,103,0,0
+KENTUCKY,Heat,79,0,0
+KENTUCKY,Heavy Rain,1,0,0
+KENTUCKY,Heavy Snow,32,0,0
+KENTUCKY,High Wind,69,0,0
+KENTUCKY,Lightning,1,0,0
+KENTUCKY,Strong Wind,96,0,0
+KENTUCKY,Thunderstorm Wind,818,2,4
+KENTUCKY,Tornado,66,2,46
+KENTUCKY,Winter Storm,10,0,0
+KENTUCKY,Winter Weather,79,5,0
+LAKE ERIE,Marine Dense Fog,2,0,0
+LAKE ERIE,Marine Hail,4,0,0
+LAKE ERIE,Marine High Wind,1,0,0
+LAKE ERIE,Marine Strong Wind,1,2,0
+LAKE ERIE,Marine Thunderstorm Wind,92,0,0
+LAKE ERIE,Waterspout,11,0,0
+LAKE HURON,Marine Thunderstorm Wind,19,0,0
+LAKE HURON,Waterspout,2,0,0
+LAKE MICHIGAN,Marine Hail,4,0,0
+LAKE MICHIGAN,Marine High Wind,14,0,0
+LAKE MICHIGAN,Marine Thunderstorm Wind,117,0,0
+LAKE MICHIGAN,Waterspout,19,0,0
+LAKE ONTARIO,Marine Thunderstorm Wind,27,0,0
+LAKE ONTARIO,Waterspout,2,0,0
+LAKE ST CLAIR,Marine Thunderstorm Wind,31,0,0
+LAKE SUPERIOR,Marine Hail,4,0,0
+LAKE SUPERIOR,Marine High Wind,32,0,0
+LAKE SUPERIOR,Marine Thunderstorm Wind,35,0,0
+LAKE SUPERIOR,Waterspout,1,0,0
+LOUISIANA,Astronomical Low Tide,8,0,0
+LOUISIANA,Coastal Flood,7,0,0
+LOUISIANA,Cold/Wind Chill,17,1,0
+LOUISIANA,Drought,45,0,0
+LOUISIANA,Excessive Heat,68,0,0
+LOUISIANA,Flash Flood,244,0,1
+LOUISIANA,Flood,7,0,0
+LOUISIANA,Funnel Cloud,3,0,0
+LOUISIANA,Hail,122,0,0
+LOUISIANA,Heat,120,1,0
+LOUISIANA,Heavy Rain,4,0,0
+LOUISIANA,Hurricane (Typhoon),7,0,3
+LOUISIANA,Lightning,5,0,0
+LOUISIANA,Storm Surge/Tide,32,0,0
+LOUISIANA,Thunderstorm Wind,425,4,6
+LOUISIANA,Tornado,108,2,6
+LOUISIANA,Tropical Storm,32,0,2
+LOUISIANA,Winter Storm,14,0,0
+LOUISIANA,Winter Weather,43,0,0
+MAINE,Blizzard,2,0,0
+MAINE,Coastal Flood,22,0,0
+MAINE,Excessive Heat,6,0,0
+MAINE,Flash Flood,22,0,0
+MAINE,Flood,36,0,0
+MAINE,Hail,15,0,0
+MAINE,Heat,6,0,0
+MAINE,Heavy Snow,51,0,0
+MAINE,High Wind,32,0,0
+MAINE,Thunderstorm Wind,127,0,0
+MAINE,Winter Storm,90,0,0
+MAINE,Winter Weather,86,0,0
+MARYLAND,Blizzard,1,0,0
+MARYLAND,Coastal Flood,51,0,0
+MARYLAND,Cold/Wind Chill,6,0,0
+MARYLAND,Dense Fog,14,0,0
+MARYLAND,Excessive Heat,41,0,0
+MARYLAND,Flash Flood,41,0,0
+MARYLAND,Flood,30,0,0
+MARYLAND,Hail,16,0,0
+MARYLAND,Heavy Rain,1,0,0
+MARYLAND,High Wind,4,0,0
+MARYLAND,Lightning,3,0,0
+MARYLAND,Thunderstorm Wind,202,1,0
+MARYLAND,Tornado,13,0,5
+MARYLAND,Winter Storm,46,0,0
+MARYLAND,Winter Weather,85,0,0
+MASSACHUSETTS,Coastal Flood,18,0,0
+MASSACHUSETTS,Drought,4,0,0
+MASSACHUSETTS,Flash Flood,12,0,0
+MASSACHUSETTS,Flood,10,0,0
+MASSACHUSETTS,Hail,36,0,0
+MASSACHUSETTS,Heat,4,0,0
+MASSACHUSETTS,Heavy Snow,21,0,0
+MASSACHUSETTS,High Wind,30,0,0
+MASSACHUSETTS,Lightning,5,0,0
+MASSACHUSETTS,Strong Wind,18,0,3
+MASSACHUSETTS,Thunderstorm Wind,127,0,0
+MASSACHUSETTS,Tornado,2,0,0
+MASSACHUSETTS,Wildfire,3,0,0
+MASSACHUSETTS,Winter Storm,1,0,0
+MASSACHUSETTS,Winter Weather,23,0,0
+MICHIGAN,Blizzard,4,0,0
+MICHIGAN,Cold/Wind Chill,10,0,0
+MICHIGAN,Extreme Cold/Wind Chill,4,0,0
+MICHIGAN,Flash Flood,6,0,0
+MICHIGAN,Flood,8,0,0
+MICHIGAN,Hail,110,0,0
+MICHIGAN,Heavy Rain,2,0,0
+MICHIGAN,Heavy Snow,3,0,0
+MICHIGAN,High Wind,15,0,0
+MICHIGAN,Lake-Effect Snow,6,0,0
+MICHIGAN,Lightning,5,0,7
+MICHIGAN,Rip Current,1,1,0
+MICHIGAN,Strong Wind,10,0,0
+MICHIGAN,Thunderstorm Wind,263,0,6
+MICHIGAN,Tornado,18,1,15
+MICHIGAN,Wildfire,1,0,0
+MICHIGAN,Winter Storm,156,0,1
+MICHIGAN,Winter Weather,79,0,0
+MINNESOTA,Blizzard,9,0,0
+MINNESOTA,Cold/Wind Chill,19,0,0
+MINNESOTA,Dense Fog,2,0,3
+MINNESOTA,Drought,152,0,0
+MINNESOTA,Excessive Heat,17,0,0
+MINNESOTA,Extreme Cold/Wind Chill,45,0,0
+MINNESOTA,Flash Flood,76,0,0
+MINNESOTA,Flood,53,0,0
+MINNESOTA,Freezing Fog,1,1,1
+MINNESOTA,Funnel Cloud,15,0,0
+MINNESOTA,Hail,336,0,0
+MINNESOTA,Heat,17,0,0
+MINNESOTA,Heavy Rain,27,0,0
+MINNESOTA,Heavy Snow,88,0,0
+MINNESOTA,High Wind,20,0,2
+MINNESOTA,Strong Wind,27,0,5
+MINNESOTA,Thunderstorm Wind,363,0,2
+MINNESOTA,Tornado,34,0,0
+MINNESOTA,Wildfire,1,0,3
+MINNESOTA,Winter Storm,79,0,4
+MINNESOTA,Winter Weather,161,2,6
+MISSISSIPPI,Cold/Wind Chill,16,1,0
+MISSISSIPPI,Dense Fog,1,0,21
+MISSISSIPPI,Drought,86,0,0
+MISSISSIPPI,Excessive Heat,163,0,0
+MISSISSIPPI,Extreme Cold/Wind Chill,7,0,0
+MISSISSIPPI,Flash Flood,102,0,0
+MISSISSIPPI,Flood,23,1,0
+MISSISSIPPI,Funnel Cloud,1,0,0
+MISSISSIPPI,Hail,107,0,0
+MISSISSIPPI,Heat,195,0,0
+MISSISSIPPI,High Wind,5,0,0
+MISSISSIPPI,Lightning,9,0,2
+MISSISSIPPI,Storm Surge/Tide,6,0,0
+MISSISSIPPI,Strong Wind,40,0,0
+MISSISSIPPI,Thunderstorm Wind,419,4,12
+MISSISSIPPI,Tornado,95,0,4
+MISSISSIPPI,Tropical Storm,16,0,0
+MISSISSIPPI,Wildfire,1,0,0
+MISSISSIPPI,Winter Storm,35,6,5
+MISSISSIPPI,Winter Weather,37,0,17
+MISSOURI,Blizzard,1,0,0
+MISSOURI,Cold/Wind Chill,46,0,0
+MISSOURI,Dense Fog,96,0,0
+MISSOURI,Drought,117,0,0
+MISSOURI,Excessive Heat,55,0,0
+MISSOURI,Extreme Cold/Wind Chill,45,0,0
+MISSOURI,Flash Flood,182,3,0
+MISSOURI,Flood,130,4,0
+MISSOURI,Frost/Freeze,25,0,0
+MISSOURI,Funnel Cloud,5,0,0
+MISSOURI,Hail,496,0,0
+MISSOURI,Heat,50,0,0
+MISSOURI,Heavy Rain,106,0,0
+MISSOURI,Heavy Snow,7,0,0
+MISSOURI,High Wind,1,0,0
+MISSOURI,Ice Storm,4,0,0
+MISSOURI,Lightning,4,2,1
+MISSOURI,Strong Wind,48,0,0
+MISSOURI,Thunderstorm Wind,723,3,0
+MISSOURI,Tornado,119,1,8
+MISSOURI,Wildfire,3,0,0
+MISSOURI,Winter Storm,16,0,0
+MISSOURI,Winter Weather,83,1,1
+MONTANA,Blizzard,9,0,0
+MONTANA,Cold/Wind Chill,15,0,0
+MONTANA,Dense Fog,25,0,0
+MONTANA,Drought,40,0,0
+MONTANA,Excessive Heat,3,0,0
+MONTANA,Extreme Cold/Wind Chill,29,0,0
+MONTANA,Flash Flood,2,0,0
+MONTANA,Flood,5,0,0
+MONTANA,Frost/Freeze,6,0,0
+MONTANA,Funnel Cloud,10,0,0
+MONTANA,Hail,96,0,0
+MONTANA,Heat,7,0,0
+MONTANA,Heavy Snow,88,1,0
+MONTANA,High Wind,435,0,0
+MONTANA,Ice Storm,8,0,10
+MONTANA,Strong Wind,8,0,0
+MONTANA,Thunderstorm Wind,299,0,3
+MONTANA,Tornado,4,0,0
+MONTANA,Wildfire,24,0,0
+MONTANA,Winter Storm,80,0,0
+MONTANA,Winter Weather,46,0,0
+NEBRASKA,Blizzard,38,1,1
+NEBRASKA,Cold/Wind Chill,5,1,0
+NEBRASKA,Drought,161,0,0
+NEBRASKA,Dust Storm,1,0,0
+NEBRASKA,Excessive Heat,48,0,21
+NEBRASKA,Extreme Cold/Wind Chill,101,0,24
+NEBRASKA,Flash Flood,60,0,0
+NEBRASKA,Flood,35,0,0
+NEBRASKA,Funnel Cloud,26,0,0
+NEBRASKA,Hail,510,0,1
+NEBRASKA,Heat,13,0,57
+NEBRASKA,Heavy Rain,3,0,0
+NEBRASKA,Heavy Snow,4,0,0
+NEBRASKA,High Wind,93,0,0
+NEBRASKA,Lightning,2,0,0
+NEBRASKA,Strong Wind,1,0,0
+NEBRASKA,Thunderstorm Wind,599,0,1
+NEBRASKA,Tornado,115,0,8
+NEBRASKA,Wildfire,5,1,0
+NEBRASKA,Winter Storm,138,0,2
+NEBRASKA,Winter Weather,82,0,0
+NEVADA,Avalanche,1,0,1
+NEVADA,Debris Flow,1,0,0
+NEVADA,Dust Devil,3,0,1
+NEVADA,Excessive Heat,38,115,0
+NEVADA,Flash Flood,4,0,0
+NEVADA,Flood,5,0,0
+NEVADA,Funnel Cloud,1,0,0
+NEVADA,Hail,2,0,0
+NEVADA,Heat,11,46,0
+NEVADA,Heavy Rain,19,0,0
+NEVADA,Heavy Snow,103,0,0
+NEVADA,High Wind,245,0,0
+NEVADA,Lightning,1,0,0
+NEVADA,Thunderstorm Wind,41,1,0
+NEVADA,Wildfire,1,0,0
+NEVADA,Winter Weather,14,0,0
+NEW HAMPSHIRE,Coastal Flood,3,0,0
+NEW HAMPSHIRE,Excessive Heat,7,0,0
+NEW HAMPSHIRE,Flash Flood,40,0,0
+NEW HAMPSHIRE,Flood,1,0,0
+NEW HAMPSHIRE,Hail,35,0,0
+NEW HAMPSHIRE,High Wind,1,0,0
+NEW HAMPSHIRE,Thunderstorm Wind,109,0,0
+NEW HAMPSHIRE,Tornado,2,0,0
+NEW HAMPSHIRE,Winter Storm,51,1,0
+NEW HAMPSHIRE,Winter Weather,14,0,0
+NEW JERSEY,Astronomical Low Tide,1,0,0
+NEW JERSEY,Coastal Flood,77,0,0
+NEW JERSEY,Dense Fog,68,0,0
+NEW JERSEY,Excessive Heat,76,0,0
+NEW JERSEY,Flash Flood,62,0,0
+NEW JERSEY,Flood,3,0,0
+NEW JERSEY,Hail,6,0,0
+NEW JERSEY,Heavy Snow,7,0,0
+NEW JERSEY,High Wind,33,0,1
+NEW JERSEY,Lightning,3,1,0
+NEW JERSEY,Thunderstorm Wind,262,1,1
+NEW JERSEY,Tornado,1,0,0
+NEW JERSEY,Winter Storm,20,0,0
+NEW JERSEY,Winter Weather,100,0,0
+NEW MEXICO,Blizzard,9,1,2
+NEW MEXICO,Debris Flow,6,0,0
+NEW MEXICO,Drought,375,0,0
+NEW MEXICO,Dust Storm,15,1,54
+NEW MEXICO,Flash Flood,90,4,1
+NEW MEXICO,Flood,5,0,0
+NEW MEXICO,Hail,98,0,0
+NEW MEXICO,Heavy Snow,95,0,0
+NEW MEXICO,High Wind,229,0,0
+NEW MEXICO,Lightning,1,0,0
+NEW MEXICO,Strong Wind,2,0,0
+NEW MEXICO,Thunderstorm Wind,112,0,10
+NEW MEXICO,Tornado,12,0,0
+NEW MEXICO,Wildfire,13,2,0
+NEW MEXICO,Winter Storm,4,0,0
+NEW MEXICO,Winter Weather,2,2,0
+NEW YORK,Astronomical Low Tide,1,0,0
+NEW YORK,Coastal Flood,24,0,0
+NEW YORK,Drought,20,0,0
+NEW YORK,Flash Flood,208,0,0
+NEW YORK,Flood,30,0,0
+NEW YORK,Frost/Freeze,5,0,0
+NEW YORK,Funnel Cloud,10,0,0
+NEW YORK,Hail,54,0,0
+NEW YORK,Heat,132,0,0
+NEW YORK,Heavy Rain,3,0,0
+NEW YORK,Heavy Snow,84,0,0
+NEW YORK,High Wind,131,1,1
+NEW YORK,Lake-Effect Snow,57,0,0
+NEW YORK,Lakeshore Flood,1,0,0
+NEW YORK,Lightning,4,0,1
+NEW YORK,Rip Current,3,5,0
+NEW YORK,Strong Wind,87,0,0
+NEW YORK,Thunderstorm Wind,1021,2,8
+NEW YORK,Tornado,33,1,1
+NEW YORK,Wildfire,1,0,1
+NEW YORK,Winter Storm,76,0,0
+NEW YORK,Winter Weather,283,1,0
+NORTH CAROLINA,Coastal Flood,6,0,0
+NORTH CAROLINA,Cold/Wind Chill,34,0,0
+NORTH CAROLINA,Debris Flow,2,13,0
+NORTH CAROLINA,Drought,6,0,0
+NORTH CAROLINA,Excessive Heat,26,0,0
+NORTH CAROLINA,Flash Flood,367,67,4
+NORTH CAROLINA,Flood,71,2,0
+NORTH CAROLINA,Funnel Cloud,2,0,0
+NORTH CAROLINA,Hail,104,0,0
+NORTH CAROLINA,Heavy Rain,22,0,0
+NORTH CAROLINA,Heavy Snow,5,0,0
+NORTH CAROLINA,High Wind,41,2,0
+NORTH CAROLINA,Lightning,2,0,0
+NORTH CAROLINA,Rip Current,6,3,0
+NORTH CAROLINA,Strong Wind,15,1,0
+NORTH CAROLINA,Thunderstorm Wind,696,2,4
+NORTH CAROLINA,Tornado,49,2,21
+NORTH CAROLINA,Tropical Storm,35,6,0
+NORTH CAROLINA,Winter Storm,4,0,0
+NORTH CAROLINA,Winter Weather,77,0,0
+NORTH DAKOTA,Blizzard,25,0,0
+NORTH DAKOTA,Cold/Wind Chill,36,0,0
+NORTH DAKOTA,Drought,75,0,0
+NORTH DAKOTA,Extreme Cold/Wind Chill,35,0,0
+NORTH DAKOTA,Flash Flood,6,0,0
+NORTH DAKOTA,Flood,5,0,0
+NORTH DAKOTA,Funnel Cloud,20,0,0
+NORTH DAKOTA,Hail,174,0,0
+NORTH DAKOTA,Heavy Snow,75,0,0
+NORTH DAKOTA,High Wind,72,0,0
+NORTH DAKOTA,Lightning,1,0,3
+NORTH DAKOTA,Strong Wind,2,0,0
+NORTH DAKOTA,Thunderstorm Wind,167,0,0
+NORTH DAKOTA,Tornado,14,0,0
+NORTH DAKOTA,Wildfire,2,2,8
+NORTH DAKOTA,Winter Storm,1,0,0
+NORTH DAKOTA,Winter Weather,7,0,0
+OHIO,Cold/Wind Chill,1,1,0
+OHIO,Drought,87,0,0
+OHIO,Extreme Cold/Wind Chill,7,0,0
+OHIO,Flash Flood,116,2,0
+OHIO,Flood,123,1,0
+OHIO,Funnel Cloud,3,0,0
+OHIO,Hail,194,0,0
+OHIO,Heavy Snow,1,0,0
+OHIO,High Wind,42,0,0
+OHIO,Lake-Effect Snow,20,0,0
+OHIO,Rip Current,1,1,0
+OHIO,Strong Wind,47,0,0
+OHIO,Thunderstorm Wind,639,1,5
+OHIO,Tornado,90,3,43
+OHIO,Winter Storm,25,0,0
+OHIO,Winter Weather,65,0,0
+OKLAHOMA,Blizzard,2,0,0
+OKLAHOMA,Cold/Wind Chill,78,0,0
+OKLAHOMA,Dense Fog,1,0,10
+OKLAHOMA,Drought,193,0,0
+OKLAHOMA,Excessive Heat,567,0,57
+OKLAHOMA,Extreme Cold/Wind Chill,9,0,0
+OKLAHOMA,Flash Flood,87,0,0
+OKLAHOMA,Flood,12,3,0
+OKLAHOMA,Frost/Freeze,1,0,0
+OKLAHOMA,Funnel Cloud,1,0,0
+OKLAHOMA,Hail,765,0,0
+OKLAHOMA,Heat,912,0,0
+OKLAHOMA,Heavy Rain,1,0,0
+OKLAHOMA,Heavy Snow,10,0,0
+OKLAHOMA,High Wind,59,0,0
+OKLAHOMA,Ice Storm,2,0,0
+OKLAHOMA,Lightning,5,0,0
+OKLAHOMA,Strong Wind,2,0,0
+OKLAHOMA,Thunderstorm Wind,536,1,5
+OKLAHOMA,Tornado,178,8,135
+OKLAHOMA,Wildfire,41,0,2
+OKLAHOMA,Winter Storm,15,0,0
+OKLAHOMA,Winter Weather,27,0,3
+OREGON,Blizzard,4,0,0
+OREGON,Dust Devil,1,0,0
+OREGON,Excessive Heat,16,4,0
+OREGON,Flood,12,0,0
+OREGON,Frost/Freeze,61,0,0
+OREGON,Funnel Cloud,2,0,0
+OREGON,Hail,9,0,0
+OREGON,Heat,3,12,0
+OREGON,Heavy Rain,8,0,0
+OREGON,Heavy Snow,76,0,0
+OREGON,High Surf,11,0,0
+OREGON,High Wind,64,0,0
+OREGON,Ice Storm,20,6,0
+OREGON,Sneakerwave,12,0,0
+OREGON,Strong Wind,4,0,0
+OREGON,Thunderstorm Wind,21,0,0
+OREGON,Tornado,3,0,0
+OREGON,Wildfire,28,0,0
+OREGON,Winter Storm,73,9,16
+OREGON,Winter Weather,3,1,1
+PENNSYLVANIA,Coastal Flood,15,0,0
+PENNSYLVANIA,Cold/Wind Chill,1,1,0
+PENNSYLVANIA,Dense Fog,62,0,0
+PENNSYLVANIA,Drought,55,0,0
+PENNSYLVANIA,Excessive Heat,39,0,0
+PENNSYLVANIA,Flash Flood,165,0,0
+PENNSYLVANIA,Flood,44,0,0
+PENNSYLVANIA,Funnel Cloud,4,0,0
+PENNSYLVANIA,Hail,209,0,0
+PENNSYLVANIA,Heavy Snow,62,0,0
+PENNSYLVANIA,High Wind,29,0,3
+PENNSYLVANIA,Lake-Effect Snow,32,0,1
+PENNSYLVANIA,Lightning,8,0,1
+PENNSYLVANIA,Strong Wind,37,2,0
+PENNSYLVANIA,Thunderstorm Wind,971,0,4
+PENNSYLVANIA,Tornado,24,0,0
+PENNSYLVANIA,Wildfire,1,0,3
+PENNSYLVANIA,Winter Storm,57,0,0
+PENNSYLVANIA,Winter Weather,166,1,18
+PUERTO RICO,Coastal Flood,8,0,0
+PUERTO RICO,Debris Flow,78,0,0
+PUERTO RICO,Excessive Heat,158,0,0
+PUERTO RICO,Flash Flood,189,2,9
+PUERTO RICO,Flood,207,0,0
+PUERTO RICO,Funnel Cloud,3,0,0
+PUERTO RICO,Hail,6,0,0
+PUERTO RICO,Heavy Rain,2,0,0
+PUERTO RICO,High Surf,4,0,0
+PUERTO RICO,Lightning,8,0,3
+PUERTO RICO,Rip Current,16,17,17
+PUERTO RICO,Strong Wind,1,0,0
+PUERTO RICO,Thunderstorm Wind,35,0,0
+PUERTO RICO,Tornado,1,0,0
+PUERTO RICO,Tropical Storm,29,0,0
+PUERTO RICO,Wildfire,1,0,2
+RHODE ISLAND,Coastal Flood,2,0,0
+RHODE ISLAND,Flash Flood,9,0,0
+RHODE ISLAND,Flood,7,0,0
+RHODE ISLAND,Hail,8,0,0
+RHODE ISLAND,Heavy Snow,9,0,0
+RHODE ISLAND,High Wind,9,0,0
+RHODE ISLAND,Strong Wind,1,0,0
+RHODE ISLAND,Thunderstorm Wind,11,0,0
+RHODE ISLAND,Tornado,1,0,0
+SOUTH CAROLINA,Coastal Flood,13,0,0
+SOUTH CAROLINA,Cold/Wind Chill,6,0,0
+SOUTH CAROLINA,Dense Fog,1,0,3
+SOUTH CAROLINA,Excessive Heat,1,1,0
+SOUTH CAROLINA,Flash Flood,191,2,0
+SOUTH CAROLINA,Flood,27,2,0
+SOUTH CAROLINA,Funnel Cloud,2,0,0
+SOUTH CAROLINA,Hail,129,0,0
+SOUTH CAROLINA,Heavy Rain,4,0,0
+SOUTH CAROLINA,High Wind,18,0,0
+SOUTH CAROLINA,Lightning,9,0,0
+SOUTH CAROLINA,Rip Current,7,4,1
+SOUTH CAROLINA,Strong Wind,112,0,6
+SOUTH CAROLINA,Thunderstorm Wind,491,0,3
+SOUTH CAROLINA,Tornado,57,0,3
+SOUTH CAROLINA,Tropical Storm,59,35,1
+SOUTH DAKOTA,Blizzard,12,0,0
+SOUTH DAKOTA,Cold/Wind Chill,24,0,0
+SOUTH DAKOTA,Dense Fog,1,1,0
+SOUTH DAKOTA,Drought,98,0,0
+SOUTH DAKOTA,Excessive Heat,103,0,0
+SOUTH DAKOTA,Extreme Cold/Wind Chill,78,1,0
+SOUTH DAKOTA,Flash Flood,40,0,0
+SOUTH DAKOTA,Flood,105,1,0
+SOUTH DAKOTA,Funnel Cloud,6,0,0
+SOUTH DAKOTA,Hail,317,0,0
+SOUTH DAKOTA,Heat,45,0,0
+SOUTH DAKOTA,Heavy Snow,30,0,0
+SOUTH DAKOTA,High Wind,224,0,1
+SOUTH DAKOTA,Strong Wind,105,0,0
+SOUTH DAKOTA,Thunderstorm Wind,501,2,2
+SOUTH DAKOTA,Tornado,7,0,0
+SOUTH DAKOTA,Wildfire,3,0,0
+SOUTH DAKOTA,Winter Storm,52,0,0
+SOUTH DAKOTA,Winter Weather,185,1,1
+ST LAWRENCE R,Marine Thunderstorm Wind,3,0,0
+TENNESSEE,Astronomical Low Tide,1,0,0
+TENNESSEE,Cold/Wind Chill,17,3,0
+TENNESSEE,Debris Flow,3,0,0
+TENNESSEE,Drought,244,0,0
+TENNESSEE,Excessive Heat,123,0,0
+TENNESSEE,Extreme Cold/Wind Chill,20,4,0
+TENNESSEE,Flash Flood,101,15,0
+TENNESSEE,Flood,24,3,0
+TENNESSEE,Frost/Freeze,8,0,0
+TENNESSEE,Funnel Cloud,8,0,0
+TENNESSEE,Hail,169,0,0
+TENNESSEE,Heat,146,0,0
+TENNESSEE,Heavy Snow,72,9,1
+TENNESSEE,High Wind,59,1,1
+TENNESSEE,Lightning,14,3,6
+TENNESSEE,Strong Wind,25,2,0
+TENNESSEE,Thunderstorm Wind,504,1,3
+TENNESSEE,Tornado,23,1,13
+TENNESSEE,Winter Storm,29,6,0
+TENNESSEE,Winter Weather,87,4,0
+TEXAS,Astronomical Low Tide,2,0,0
+TEXAS,Blizzard,8,0,0
+TEXAS,Coastal Flood,16,0,0
+TEXAS,Cold/Wind Chill,122,0,0
+TEXAS,Dense Fog,2,2,1
+TEXAS,Drought,449,0,0
+TEXAS,Dust Storm,6,0,0
+TEXAS,Excessive Heat,336,3,16
+TEXAS,Extreme Cold/Wind Chill,47,0,0
+TEXAS,Flash Flood,539,5,0
+TEXAS,Flood,40,2,0
+TEXAS,Frost/Freeze,47,0,0
+TEXAS,Funnel Cloud,17,0,0
+TEXAS,Hail,1588,0,0
+TEXAS,Heat,828,4,76
+TEXAS,Heavy Rain,3,0,0
+TEXAS,Heavy Snow,3,0,0
+TEXAS,High Wind,318,0,0
+TEXAS,Ice Storm,11,1,1
+TEXAS,Lightning,18,3,2
+TEXAS,Rip Current,3,3,0
+TEXAS,Storm Surge/Tide,5,0,0
+TEXAS,Strong Wind,7,0,0
+TEXAS,Thunderstorm Wind,988,11,37
+TEXAS,Tornado,149,9,153
+TEXAS,Tropical Storm,7,0,0
+TEXAS,Wildfire,37,2,0
+TEXAS,Winter Storm,35,0,0
+TEXAS,Winter Weather,47,0,0
+UTAH,Avalanche,10,4,6
+UTAH,Debris Flow,1,0,0
+UTAH,Dense Fog,4,0,0
+UTAH,Dust Storm,1,0,0
+UTAH,Excessive Heat,2,2,2
+UTAH,Flash Flood,52,2,2
+UTAH,Flood,5,0,0
+UTAH,Frost/Freeze,5,0,0
+UTAH,Funnel Cloud,1,0,0
+UTAH,Hail,34,0,0
+UTAH,Heavy Snow,49,0,0
+UTAH,High Wind,51,0,0
+UTAH,Lightning,1,1,2
+UTAH,Strong Wind,5,3,0
+UTAH,Thunderstorm Wind,229,1,0
+UTAH,Tornado,2,0,0
+UTAH,Wildfire,7,0,0
+UTAH,Winter Storm,22,0,0
+UTAH,Winter Weather,43,3,7
+VERMONT,Drought,6,0,0
+VERMONT,Flash Flood,39,3,0
+VERMONT,Hail,6,0,0
+VERMONT,Heat,4,0,0
+VERMONT,Heavy Snow,5,0,0
+VERMONT,High Wind,22,0,0
+VERMONT,Lightning,1,0,0
+VERMONT,Strong Wind,49,0,0
+VERMONT,Thunderstorm Wind,56,0,0
+VERMONT,Winter Storm,70,0,0
+VERMONT,Winter Weather,92,0,0
+VIRGIN ISLANDS,Coastal Flood,7,0,0
+VIRGIN ISLANDS,Drought,2,0,0
+VIRGIN ISLANDS,Excessive Heat,14,0,0
+VIRGIN ISLANDS,Flash Flood,4,0,0
+VIRGINIA,Avalanche,1,0,0
+VIRGINIA,Coastal Flood,30,0,0
+VIRGINIA,Cold/Wind Chill,8,0,0
+VIRGINIA,Debris Flow,1,0,0
+VIRGINIA,Drought,16,0,0
+VIRGINIA,Excessive Heat,22,0,0
+VIRGINIA,Flash Flood,281,2,0
+VIRGINIA,Flood,169,0,0
+VIRGINIA,Funnel Cloud,2,0,0
+VIRGINIA,Hail,81,0,0
+VIRGINIA,Heavy Rain,150,0,0
+VIRGINIA,Heavy Snow,16,0,0
+VIRGINIA,High Wind,82,3,5
+VIRGINIA,Lightning,7,0,0
+VIRGINIA,Strong Wind,33,0,0
+VIRGINIA,Thunderstorm Wind,732,2,5
+VIRGINIA,Tornado,14,0,6
+VIRGINIA,Wildfire,3,0,0
+VIRGINIA,Winter Storm,21,0,0
+VIRGINIA,Winter Weather,143,0,0
+WASHINGTON,Avalanche,1,1,0
+WASHINGTON,Blizzard,4,0,0
+WASHINGTON,Coastal Flood,4,0,0
+WASHINGTON,Cold/Wind Chill,9,5,0
+WASHINGTON,Debris Flow,1,0,0
+WASHINGTON,Dust Storm,3,0,0
+WASHINGTON,Excessive Heat,3,4,0
+WASHINGTON,Flash Flood,2,0,0
+WASHINGTON,Flood,2,0,0
+WASHINGTON,Freezing Fog,1,1,0
+WASHINGTON,Frost/Freeze,22,0,0
+WASHINGTON,Funnel Cloud,3,0,0
+WASHINGTON,Hail,2,0,0
+WASHINGTON,Heat,17,0,0
+WASHINGTON,Heavy Rain,4,0,0
+WASHINGTON,Heavy Snow,90,0,0
+WASHINGTON,High Wind,49,2,0
+WASHINGTON,Ice Storm,20,0,0
+WASHINGTON,Lightning,2,0,0
+WASHINGTON,Strong Wind,7,2,0
+WASHINGTON,Thunderstorm Wind,42,0,0
+WASHINGTON,Tornado,4,0,0
+WASHINGTON,Wildfire,25,0,0
+WASHINGTON,Winter Storm,9,0,0
+WASHINGTON,Winter Weather,34,1,9
+WEST VIRGINIA,Blizzard,6,0,0
+WEST VIRGINIA,Cold/Wind Chill,18,0,0
+WEST VIRGINIA,Drought,210,0,0
+WEST VIRGINIA,Excessive Heat,5,0,0
+WEST VIRGINIA,Flash Flood,122,0,0
+WEST VIRGINIA,Flood,103,3,0
+WEST VIRGINIA,Hail,49,0,0
+WEST VIRGINIA,Heavy Rain,2,0,0
+WEST VIRGINIA,Heavy Snow,79,0,0
+WEST VIRGINIA,High Wind,43,0,1
+WEST VIRGINIA,Ice Storm,1,0,0
+WEST VIRGINIA,Lightning,1,0,0
+WEST VIRGINIA,Strong Wind,187,0,1
+WEST VIRGINIA,Thunderstorm Wind,481,0,2
+WEST VIRGINIA,Tornado,21,0,3
+WEST VIRGINIA,Wildfire,1,0,0
+WEST VIRGINIA,Winter Storm,52,0,0
+WEST VIRGINIA,Winter Weather,194,0,0
+WISCONSIN,Cold/Wind Chill,46,8,0
+WISCONSIN,Debris Flow,1,0,0
+WISCONSIN,Dense Fog,1,0,2
+WISCONSIN,Drought,112,0,0
+WISCONSIN,Excessive Heat,36,0,0
+WISCONSIN,Extreme Cold/Wind Chill,7,0,0
+WISCONSIN,Flash Flood,49,0,1
+WISCONSIN,Flood,47,0,0
+WISCONSIN,Funnel Cloud,4,0,0
+WISCONSIN,Hail,225,0,0
+WISCONSIN,Heat,6,0,0
+WISCONSIN,Heavy Rain,1,0,0
+WISCONSIN,Heavy Snow,24,0,0
+WISCONSIN,High Wind,1,0,0
+WISCONSIN,Ice Storm,1,0,0
+WISCONSIN,Lightning,1,0,0
+WISCONSIN,Rip Current,1,1,1
+WISCONSIN,Thunderstorm Wind,342,0,2
+WISCONSIN,Tornado,55,0,1
+WISCONSIN,Winter Storm,144,0,0
+WISCONSIN,Winter Weather,176,1,6
+WYOMING,Avalanche,2,2,1
+WYOMING,Blizzard,1,0,0
+WYOMING,Dense Fog,1,0,0
+WYOMING,Extreme Cold/Wind Chill,53,0,0
+WYOMING,Flash Flood,8,0,0
+WYOMING,Funnel Cloud,1,0,0
+WYOMING,Hail,59,0,0
+WYOMING,Heat,6,0,0
+WYOMING,Heavy Snow,48,0,0
+WYOMING,High Wind,271,0,0
+WYOMING,Thunderstorm Wind,159,0,1
+WYOMING,Tornado,5,0,0
+WYOMING,Wildfire,15,0,0
+WYOMING,Winter Storm,103,0,0
+WYOMING,Winter Weather,71,0,0

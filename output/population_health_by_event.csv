@@ -1,0 +1,51 @@
+EVENT_TYPE,TOTAL_EVENTS,DIRECT_DEATHS,INDIRECT_DEATHS,TOTAL_DEATHS,DIRECT_INJURIES,INDIRECT_INJURIES,TOTAL_INJURIES,TOTAL_CASUALTIES,CASUALTIES_PER_100_EVENTS
+Tornado,2138,51,2,53,649,9,658,711,33.26
+Heat,3171,120,99,219,139,34,173,392,12.36
+Excessive Heat,2660,130,123,253,84,16,100,353,13.27
+Thunderstorm Wind,19940,39,14,53,145,16,161,214,1.07
+Flash Flood,4661,114,4,118,17,2,19,137,2.94
+Winter Weather,3557,7,18,25,13,74,87,112,3.15
+Rip Current,73,65,0,65,34,8,42,107,146.58
+Hurricane (Typhoon),76,13,4,17,82,3,85,102,134.21
+Tropical Storm,544,47,31,78,6,6,12,90,16.54
+Dense Fog,839,0,18,18,0,65,65,83,9.89
+Dust Storm,88,0,1,1,4,70,74,75,85.23
+Lightning,191,14,4,18,41,9,50,68,35.6
+Wildfire,336,9,1,10,54,3,57,67,19.94
+Ice Storm,113,7,0,7,11,47,58,65,57.52
+Winter Storm,2112,11,12,23,12,30,42,65,3.08
+Strong Wind,1311,12,10,22,20,11,31,53,4.04
+Cold/Wind Chill,741,38,1,39,0,0,0,39,5.26
+High Wind,3994,10,3,13,20,3,23,36,0.9
+Flood,2472,30,5,35,0,0,0,35,1.42
+Extreme Cold/Wind Chill,705,8,1,9,24,1,25,34,4.82
+Heavy Snow,2210,4,8,12,13,2,15,27,1.22
+Avalanche,26,11,0,11,13,1,14,25,96.15
+High Surf,109,7,1,8,13,3,16,24,22.02
+Debris Flow,171,16,0,16,3,0,3,19,11.11
+Hail,8941,0,0,0,15,0,15,15,0.17
+Marine Strong Wind,3,5,1,6,3,0,3,9,300
+Blizzard,332,0,2,2,0,3,3,5,1.51
+Dust Devil,7,2,0,2,3,0,3,5,71.43
+Heavy Rain,918,0,3,3,2,0,2,5,0.54
+Sneakerwave,15,3,0,3,1,0,1,4,26.67
+Freezing Fog,5,1,1,2,0,1,1,3,60
+Coastal Flood,382,0,0,0,1,0,1,1,0.26
+Lake-Effect Snow,124,0,0,0,0,1,1,1,0.81
+Astronomical Low Tide,17,0,0,0,0,0,0,0,0
+Drought,3473,0,0,0,0,0,0,0,0
+Frost/Freeze,393,0,0,0,0,0,0,0,0
+Funnel Cloud,279,0,0,0,0,0,0,0,0
+Lakeshore Flood,1,0,0,0,0,0,0,0,0
+Marine Dense Fog,2,0,0,0,0,0,0,0,0
+Marine Hail,22,0,0,0,0,0,0,0,0
+Marine High Wind,64,0,0,0,0,0,0,0,0
+Marine Hurricane/Typhoon,11,0,0,0,0,0,0,0,0
+Marine Thunderstorm Wind,2192,0,0,0,0,0,0,0,0
+Marine Tropical Depression,1,0,0,0,0,0,0,0,0
+Marine Tropical Storm,74,0,0,0,0,0,0,0,0
+Seiche,3,0,0,0,0,0,0,0,0
+Sleet,6,0,0,0,0,0,0,0,0
+Storm Surge/Tide,71,0,0,0,0,0,0,0,0
+Tropical Depression,36,0,0,0,0,0,0,0,0
+Waterspout,192,0,0,0,0,0,0,0,0

@@ -1,0 +1,153 @@
+SEASON,EVENT_TYPE,TOTAL_EVENTS,TOTAL_DEATHS,TOTAL_INJURIES
+Winter,Winter Weather,2793,18,74
+Winter,High Wind,1668,3,7
+Winter,Winter Storm,1463,23,41
+Winter,Heavy Snow,1358,11,15
+Winter,Thunderstorm Wind,1244,2,6
+Winter,Drought,954,0,0
+Winter,Strong Wind,741,6,7
+Winter,Cold/Wind Chill,730,28,0
+Winter,Flood,725,6,0
+Winter,Extreme Cold/Wind Chill,705,9,25
+Winter,Hail,471,0,0
+Winter,Dense Fog,450,16,49
+Winter,Flash Flood,395,4,0
+Winter,Tornado,259,3,69
+Winter,Blizzard,231,2,1
+Winter,Marine Thunderstorm Wind,223,0,0
+Winter,Coastal Flood,137,0,1
+Winter,Ice Storm,113,7,58
+Winter,Lake-Effect Snow,105,0,1
+Winter,Frost/Freeze,68,0,0
+Winter,High Surf,67,4,4
+Winter,Heavy Rain,48,3,0
+Winter,Wildfire,42,3,0
+Winter,Marine High Wind,37,0,0
+Winter,Debris Flow,30,2,0
+Winter,Funnel Cloud,23,0,0
+Winter,Avalanche,18,7,10
+Winter,Astronomical Low Tide,15,0,0
+Winter,Waterspout,12,0,0
+Winter,Rip Current,11,5,10
+Winter,Lightning,10,0,0
+Winter,Sneakerwave,9,0,0
+Winter,Dust Storm,7,1,5
+Winter,Sleet,6,0,0
+Winter,Freezing Fog,4,2,1
+Winter,Marine Strong Wind,1,4,3
+Spring,Thunderstorm Wind,6427,25,69
+Spring,Hail,5320,0,0
+Spring,Flash Flood,1341,7,8
+Spring,High Wind,1306,1,5
+Spring,Tornado,1145,37,496
+Spring,Marine Thunderstorm Wind,800,0,0
+Spring,Flood,711,9,0
+Spring,Heavy Snow,541,0,0
+Spring,Drought,538,0,0
+Spring,Winter Storm,513,0,0
+Spring,Winter Weather,500,1,6
+Spring,Strong Wind,268,2,15
+Spring,Dense Fog,264,0,3
+Spring,Heavy Rain,208,0,0
+Spring,Heat,180,12,0
+Spring,Frost/Freeze,168,0,0
+Spring,Funnel Cloud,98,0,0
+Spring,Coastal Flood,84,0,0
+Spring,Excessive Heat,73,1,0
+Spring,Blizzard,70,0,1
+Spring,Lightning,60,7,11
+Spring,Wildfire,53,0,8
+Spring,Debris Flow,42,0,0
+Spring,Dust Storm,29,0,7
+Spring,Waterspout,23,0,0
+Spring,Rip Current,15,15,20
+Spring,High Surf,12,1,0
+Spring,Marine Hail,12,0,0
+Spring,Avalanche,6,4,4
+Spring,Marine High Wind,6,0,0
+Spring,Cold/Wind Chill,4,3,0
+Spring,Dust Devil,4,0,1
+Spring,Sneakerwave,2,0,0
+Spring,Freezing Fog,1,0,0
+Summer,Thunderstorm Wind,11183,23,70
+Summer,Heat,2855,175,154
+Summer,Hail,2748,0,10
+Summer,Excessive Heat,2469,244,98
+Summer,Flash Flood,2146,15,6
+Summer,Marine Thunderstorm Wind,1006,0,0
+Summer,Flood,704,5,0
+Summer,Tornado,518,5,39
+Summer,Drought,471,0,0
+Summer,Heavy Rain,440,0,0
+Summer,High Wind,216,1,1
+Summer,Wildfire,150,5,1
+Summer,Tropical Storm,138,5,2
+Summer,Funnel Cloud,137,0,0
+Summer,Strong Wind,122,5,4
+Summer,Waterspout,108,0,0
+Summer,Lightning,99,10,38
+Summer,Debris Flow,61,1,3
+Summer,Dust Storm,39,0,54
+Summer,Rip Current,33,32,11
+Summer,Storm Surge/Tide,33,0,0
+Summer,Coastal Flood,31,0,0
+Summer,Dense Fog,25,0,0
+Summer,Marine Tropical Storm,19,0,0
+Summer,High Surf,18,0,0
+Summer,Frost/Freeze,14,0,0
+Summer,Tropical Depression,13,0,0
+Summer,Heavy Snow,8,1,0
+Summer,Marine Hail,8,0,0
+Summer,Hurricane (Typhoon),6,3,0
+Summer,Cold/Wind Chill,5,6,0
+Summer,Winter Weather,5,0,0
+Summer,Dust Devil,3,2,2
+Summer,Marine High Wind,3,0,0
+Summer,Seiche,3,0,0
+Summer,Avalanche,2,0,0
+Summer,Marine Dense Fog,2,0,0
+Summer,Marine Hurricane/Typhoon,2,0,0
+Summer,Marine Strong Wind,2,2,0
+Summer,Astronomical Low Tide,1,0,0
+Summer,Marine Tropical Depression,1,0,0
+Summer,Sneakerwave,1,2,0
+Fall,Drought,1510,0,0
+Fall,Thunderstorm Wind,1086,3,16
+Fall,High Wind,804,8,10
+Fall,Flash Flood,779,92,5
+Fall,Tropical Storm,406,73,10
+Fall,Hail,402,0,5
+Fall,Flood,332,15,0
+Fall,Heavy Snow,303,0,0
+Fall,Winter Weather,259,6,7
+Fall,Heavy Rain,222,0,2
+Fall,Tornado,216,8,54
+Fall,Strong Wind,180,9,5
+Fall,Marine Thunderstorm Wind,163,0,0
+Fall,Frost/Freeze,143,0,0
+Fall,Heat,136,32,19
+Fall,Winter Storm,136,0,1
+Fall,Coastal Flood,130,0,0
+Fall,Excessive Heat,118,8,2
+Fall,Dense Fog,100,2,13
+Fall,Wildfire,91,2,48
+Fall,Hurricane (Typhoon),70,14,85
+Fall,Marine Tropical Storm,55,0,0
+Fall,Waterspout,49,0,0
+Fall,Debris Flow,38,13,0
+Fall,Storm Surge/Tide,38,0,0
+Fall,Blizzard,31,0,1
+Fall,Tropical Depression,23,0,0
+Fall,Lightning,22,1,1
+Fall,Funnel Cloud,21,0,0
+Fall,Lake-Effect Snow,19,0,0
+Fall,Marine High Wind,18,0,0
+Fall,Rip Current,14,13,1
+Fall,Dust Storm,13,0,8
+Fall,High Surf,12,3,12
+Fall,Marine Hurricane/Typhoon,9,0,0
+Fall,Sneakerwave,3,1,1
+Fall,Cold/Wind Chill,2,2,0
+Fall,Marine Hail,2,0,0
+Fall,Astronomical Low Tide,1,0,0
+Fall,Lakeshore Flood,1,0,0
